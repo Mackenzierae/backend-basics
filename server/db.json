@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "message": "The most common way people give up their power is by thinking they don't have any.",
+      "rating": 5,
+      "type": "career"
+    },
+    {
+      "id": 2,
+      "message": "Every day may not be good, but there is something good in every day.",
+      "rating": 4,
+      "type": "general"
+    },
+    {
+      "id": 3,
+      "message": "Families are like branches on a tree. We grow in different directions yet our roots remain as one.",
+      "rating": 5,
+      "type": "family"
+    },
+    {
+      "id": 4,
+      "message": "A good friend doesn't tell you what you want to hear, but tells you what you need to hear.",
+      "rating": 4,
+      "type": "friendship"
+    },
+    {
+      "id": 5,
+      "message": "Don't believe those who tell you they love you, believe those who show you they do.",
+      "rating": 4,
+      "type": "love"
+    }
+  ]
